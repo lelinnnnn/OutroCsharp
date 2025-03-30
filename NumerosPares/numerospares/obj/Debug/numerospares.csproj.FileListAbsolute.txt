@@ -1,0 +1,7 @@
+C:\Users\Marcio\source\repos\CsharpSenac\NumerosPares\numerospares\bin\Debug\numerospares.exe.config
+C:\Users\Marcio\source\repos\CsharpSenac\NumerosPares\numerospares\bin\Debug\numerospares.exe
+C:\Users\Marcio\source\repos\CsharpSenac\NumerosPares\numerospares\bin\Debug\numerospares.pdb
+C:\Users\Marcio\source\repos\CsharpSenac\NumerosPares\numerospares\obj\Debug\numerospares.csproj.AssemblyReference.cache
+C:\Users\Marcio\source\repos\CsharpSenac\NumerosPares\numerospares\obj\Debug\numerospares.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\source\repos\CsharpSenac\NumerosPares\numerospares\obj\Debug\numerospares.exe
+C:\Users\Marcio\source\repos\CsharpSenac\NumerosPares\numerospares\obj\Debug\numerospares.pdb
